@@ -1,2 +1,2 @@
-# Perif-ricos-y-dispositivos-de-interfaz-humana
+#PDIH
 Repositorio 22-23
