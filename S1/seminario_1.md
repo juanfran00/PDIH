@@ -31,7 +31,7 @@ Para hacerlo de forma automatica hay que modificar el archivo de configuración 
 
 Para cambiar el tamaño de ventana de DOSbox hay que modificar el archivod e configuración con los siguientes valores:
 
-![cambio_ventana](https://github.com/juanfran00/PDIH/blob/main/S1/img/cambio_ventana.png)
+![cambio_ventana](https://github.com/juanfran00/PDIH/blob/main/S1/img/cambiar_tamanio.png)
 
 y quedaría tal que así:
 
