@@ -6,7 +6,7 @@ Nos vamos a dirigir a la página de [DOSbox](https://www.dosbox.com/download.php
 
 Descargamos el programa pinchando en descargas, se nos redirigirá a una página donde elijimos en que versión lo queremos descargar en mi caso Windows, seleccionamos y empezará la descarga del mismo.
 
-![dosbox_downloads](https://github.com/juanfran00/PDIH/blob/main/S1/img/dosbox_downloads.png)
+![dosbox_downloads](https://github.com/juanfran00/PDIH/blob/main/S1/img/bosbox_downloads.png)
 
 Una vez se ha descargado el archivo, iniciamos el instalador el cual es seguir unos sencillos pasos.
 
