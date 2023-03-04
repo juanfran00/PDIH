@@ -46,5 +46,5 @@ Para simplificar esta tarea, utilizaremos los recursos proporcionados en el semi
 
 Este programa opera mediante el almacenamiento de datos en registros separados, incluyendo un contador inicializado en 1. Al llegar a la etiqueta "bucle", se muestra un mensaje por pantalla y se incrementa el contador. Si el contador es distinto de 7, el programa salta a la etiqueta "bucle" y repite el proceso. Después de mostrar el mensaje el número de veces requerido, el programa continúa su ejecución y termina.
 
-![salida](https://github.com/juanfran00/PDIH/blob/main/S1/img/ejecuion_hola.png)
+![salida](https://github.com/juanfran00/PDIH/blob/main/S1/img/ejecucion_hola.png)
 
