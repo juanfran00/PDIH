@@ -38,3 +38,13 @@ y quedaría tal que así:
 ![cambio_ventana_final](https://github.com/juanfran00/PDIH/blob/main/S1/img/cambio_tamanio.png)
 
 ## Tarea 3: Crear el ejemplo “Hola mundo” en ensamblador, compilarlo y comprobar su funcionamiento. A continuación, modificar ese ejemplo para incluir un bucle que muestre ese mensaje 7 veces.
+
+Para simplificar esta tarea, utilizaremos los recursos proporcionados en el seminario, que incluyen el archivo "Hola Mundo" y el script que compila y vincula nuestros programas. De esta manera, solo necesitaremos ejecutar el script junto con el nombre del archivo deseado (sin la extensión) para realizar esta tarea.
+
+**hello.asm**
+![holamundo](https://github.com/juanfran00/PDIH/blob/main/S1/img/helloWorldBase.png)
+
+Este programa opera mediante el almacenamiento de datos en registros separados, incluyendo un contador inicializado en 1. Al llegar a la etiqueta "bucle", se muestra un mensaje por pantalla y se incrementa el contador. Si el contador es distinto de 7, el programa salta a la etiqueta "bucle" y repite el proceso. Después de mostrar el mensaje el número de veces requerido, el programa continúa su ejecución y termina.
+
+![salida](https://github.com/juanfran00/PDIH/blob/main/S1/img/ejecuion_hola.png)
+
