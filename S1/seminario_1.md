@@ -12,6 +12,11 @@ Una vez se ha descargado el archivo, iniciamos el instalador el cual es seguir u
 
 ![dosbox_installer](https://github.com/juanfran00/PDIH/blob/main/S1/img/instalacion_completada.png)
 
+### Ejecucion de un juego
+Descomprimimos el archivo JUEGOS.zip y lo metemos dentro de la carpeta DOSBOX. En mi caso he lanzado el juego Tetris por lo cual ejecuto `TETRIS.EXE` y ya puedo jugar al juego.
+
+![tetris_juego](https://github.com/juanfran00/PDIH/blob/main/S1/img/bosbox_juego.png)
+
 
 ## Tarea 2: Configurar el inicio de DOSBOX para que monte en su unidad C: el directorio donde se encuentra el entorno de programación Borland C (BC) que incluye las herramientas para compilar no sólo lenguaje C, sino también ensamblador. Añadir a la variable “PATH” de inicio el directorio “bin” donde se encuentra el ejecutable BC.EXE
 ## Tarea 3: Crear el ejemplo “Hola mundo” en ensamblador, compilarlo y comprobar su funcionamiento. A continuación, modificar ese ejemplo para incluir un bucle que muestre ese mensaje 7 veces.
