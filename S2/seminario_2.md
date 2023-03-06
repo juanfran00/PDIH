@@ -30,3 +30,10 @@ Aquí podemos ver el cambio de modo de vídeo
     caracter = outregs.h.al;
     return caracter;
 }
+void mi_putchar(char c){
+    union REGS inregs, outregs;
+    inregs.h.ah = 2;
+    inregs.h.dl = c;
+    int86(0x21, &inregs, &outregs);
+}
+`
