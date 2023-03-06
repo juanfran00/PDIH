@@ -38,4 +38,4 @@ void mi_putchar(char c){
 }
 `
 Aquí se puede ver una imagen de la ejecución:
-[lectura](https://github.com/juanfran00/PDIH/blob/main/S2/img/lectura.png)
+![lectura](https://github.com/juanfran00/PDIH/blob/main/S2/img/lectura.png)
