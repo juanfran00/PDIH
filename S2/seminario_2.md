@@ -37,3 +37,5 @@ void mi_putchar(char c){
     int86(0x21, &inregs, &outregs);
 }
 `
+Aquí se puede ver una imagen de la ejecución:
+[lectura](https://github.com/juanfran00/PDIH/blob/main/S2/img/lectura.png)
